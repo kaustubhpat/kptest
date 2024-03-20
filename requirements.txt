@@ -1,0 +1,5 @@
+opencv_contrib_python
+streamlit
+numpy
+opencv-python
+opencv-python-headless
